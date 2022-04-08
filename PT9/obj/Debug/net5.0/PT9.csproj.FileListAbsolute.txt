@@ -1,0 +1,16 @@
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\PT9.exe
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\PT9.deps.json
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\PT9.runtimeconfig.json
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\PT9.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\PT9.dll
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\ref\PT9.dll
+C:\Users\kamil\source\repos\PT9\bin\Debug\net5.0\PT9.pdb
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.AssemblyInfo.cs
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.dll
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\ref\PT9.dll
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.pdb
+C:\Users\kamil\source\repos\PT9\obj\Debug\net5.0\PT9.genruntimeconfig.cache
